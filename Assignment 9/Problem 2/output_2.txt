@@ -1,0 +1,9 @@
+Name-Neeraj Kumar
+Roll No-244103315
+
+
+Result
+.................................
+Value of dv/dy :140.33333333 s^-1
+Value of shear stress :0.00252600 N/m^2
+

@@ -1,0 +1,10 @@
+Entered the tolerance value: 0.000010
+Converged in 5 iteration(s).
+Multiplications: 275, Divisions: 9
+
+Final solution x:
+7.859713
+0.422926
+-0.073592
+-0.540643
+0.010626

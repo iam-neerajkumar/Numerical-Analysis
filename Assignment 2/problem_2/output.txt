@@ -1,0 +1,4 @@
+Approximate value of sin(x) (up to 6 terms): 0.9999999383
+True value of sin(x): 0.9999999946
+Relative Error: 0.0000000563
+

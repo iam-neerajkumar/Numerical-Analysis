@@ -1,0 +1,5 @@
+Matrix is not diagonally dominant.
+Entered tolerance value: 0.001000
+
+
+NO, it is not converged.

@@ -1,0 +1,23 @@
+Name-Neeraj Kumar
+Roll No-244103315
+
+
+True Value:-4.40000000
+
+Step size (h): 0.03
+.............................................................
+Forward Difference   : -6.38207600	 Error : 1.98207600
+Backward difference  : -2.49827600	 Error : 1.90172400
+Centered Difference  : -4.44017600	 Error : 0.04017600
+
+Step size (h): 0.06
+.............................................................
+Forward Difference   : -8.39201600	 Error : 3.99201600
+Backward difference  : -0.72161600	 Error : 3.67838400
+Centered Difference  : -4.55681600	 Error : 0.15681600
+
+Step size (h): 0.09
+.............................................................
+Forward Difference   : -10.36955600	 Error : 5.96955600
+Backward difference  : 0.89304400	 Error : 5.29304400
+Centered Difference  : -4.73825600	 Error : 0.33825600

@@ -1,0 +1,9 @@
+Tol. value = .0001
+Div=9 Multi=275
+
+Tol. value = .000001
+Div=9 Multi=275
+
+Tol. value = .0000001
+Div=11 Multi=325
+

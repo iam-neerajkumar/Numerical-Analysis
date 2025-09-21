@@ -1,0 +1,22 @@
+Matrix is not diagonally dominant.
+
+
+Tolerance: 0.10000
+Gauss-Seidel Method - Function evaluations: 15
+Jacobi Method - Function evaluations: 80
+
+Tolerance: 0.01000
+Gauss-Seidel Method - Function evaluations: 10
+Jacobi Method - Function evaluations: 165
+
+Tolerance: 0.00100
+Gauss-Seidel Method - Function evaluations: 20
+Jacobi Method - Function evaluations: 255
+
+Tolerance: 0.00010
+Gauss-Seidel Method - Function evaluations: 20
+Jacobi Method - Function evaluations: 345
+
+Tolerance: 0.00001
+Gauss-Seidel Method - Function evaluations: 15
+Jacobi Method - Function evaluations: 435

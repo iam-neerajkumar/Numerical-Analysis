@@ -1,0 +1,9 @@
+Name-Neeraj Kumar
+Roll no-244103315
+
+
+
+Integration value by combination of Trapezoidal rule and Simpsons rules: 0.79128
+Exact value: 0.79124
+Relative error value: 0.01 %
+

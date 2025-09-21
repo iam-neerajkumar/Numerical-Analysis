@@ -1,0 +1,11 @@
+Name-Neeraj Kumar
+Roll No-244103315
+
+Iterations	x		function evaluation
+...............................................
+1		2.100000	0.061000
+2		2.094568	0.000186
+3		2.094551	0.000000
+4		2.094551	-0.000000
+Root: 2.09455
+Converged at 5 iterations.

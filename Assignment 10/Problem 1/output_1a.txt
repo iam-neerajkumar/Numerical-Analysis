@@ -1,0 +1,9 @@
+Name-Neeraj Kumar
+Roll no-244103315
+
+
+
+Integration value by trapezoidal rule: 0.79284
+Exact value: 0.79124
+Relative error value: 0.20 %
+

@@ -1,0 +1,4 @@
+Largest Eigen Value: 4.105292
+Eigen Vector:[0.062813 0.087041 0.018251 1.000000 ]
+Smallest Eigen Value: 4.105291
+Eigen Vector: [0.062812 0.087041 0.018252 1.000000 ]

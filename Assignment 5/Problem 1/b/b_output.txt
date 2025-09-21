@@ -1,0 +1,2 @@
+Entered the tolerance value: 0.000010
+Not Converged within 10000 iterations.

@@ -1,0 +1,8 @@
+Name-Neeraj Kumar
+Roll no-244103315
+
+
+Exact value : 1.940130
+Value of integration by two-point Gauss-Legendre formula : 1.919303 Error : 0.020827
+Value of integration by three-point Gauss-Legendre formula : 1.938157 Error : 0.001973
+Value of integration by four-point Gauss-Legendre formula : 1.940609 Error : 0.000479

@@ -1,0 +1,15 @@
+Name-Neeraj kumar
+Roll No-244103315
+
+
+Enter x to interpolate: 27.00 
+Coefficients:
+.....................
+ a = -0.00003
+ b = 0.00267
+ c = -0.15850 
+d = 8.41800
+
+Interpolated value: f (27.00) = 7.96571
+Exact value: f(27.00) =7.98600
+Absolute error = 0.25408 % 

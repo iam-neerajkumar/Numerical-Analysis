@@ -1,0 +1,5 @@
+Matrix is not diagonally dominant.
+Entered tolerance value: 0.001000
+
+Not converged by Jacobi Method. 
+it is converged by only Gauss siedel Method.

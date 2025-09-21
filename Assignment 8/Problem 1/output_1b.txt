@@ -1,0 +1,15 @@
+Name-Neeraj kumar
+Roll No-244103315
+
+
+Enter x to interpolate: 4.10 
+Coefficients:
+.....................
+ a = 0.00423
+ b = -0.01268
+ c = 0.02881 
+d = 0.94118
+
+Interpolated value: f (4.10) = 0.94393
+Exact value: f(4.10) =0.94385
+Absolute error = 0.00880 % 
